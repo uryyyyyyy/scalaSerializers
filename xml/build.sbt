@@ -1,0 +1,4 @@
+name := """xmlSample"""
+
+libraryDependencies ++= Seq(
+)

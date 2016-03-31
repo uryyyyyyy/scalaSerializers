@@ -1,0 +1,4 @@
+name := """jsonSample"""
+
+libraryDependencies ++= Seq(
+)
